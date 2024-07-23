@@ -1,29 +1,27 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: wusctong's
+SEOTitle: Digital Wasteland
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: wutongtree0513@gmail.com
+description: "胃痛的温暖小窝，电子荒原"
+keyword: "胃痛, wusctong, 胃痛的电子小窝, wusctong's digital nest"
+url: "http://wusctong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/wusctong/wusctong.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "欢迎来到这篇电子荒原。"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+wechat_username: wusctong
+dingtalk_username: wusctong
+github_username: wusctong
+youtube_username: wusctong
 
 
 
@@ -62,11 +60,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: Ov23liNozEc2UfZV7VUm                            #生成的clientID
+  clientSecret: 17abe8f3c4d9c55750b300ad65e491093981fb31    #生成的clientSecret
+  repo: weitong-studio    #仓库名称
+  owner: wusctong    #github用户名
+  admin: [wusctong]
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
